@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //menu_edid
+    <item name="Abstimmen" type="id"/>
+    <item name="Einmalig" type="id"/>
+    <item name="Kategorie" type="id"/>
+    <item name="Pflicht" type="id"/>
+    <item name="Regeln" type="id"/>
+    <item name="Runde" type="id"/>
+    <item name="Shorts" type="id"/>
+    <item name="Spiele" type="id"/>
+    <item name="Die_Wahl" type="id"/>
+    <item name="Wahrheit" type="id"/>
+
+    //menu_main
+    <item name="Spiel" type="id"/>
+    <item name="Bearbeiten" type="id"/>
+    <item name="Credits" type="id"/>
+    <item name="Autofahrt" type="id"/>
+    <item name="Spieleliste" type="id"/>
+    <item name="Passwort" type="id"/>
+    <item name="Teilen" type="id"/>
+    <item name="Bewerten" type="id"/>
+
+    //actions
+    <item name="Back" type="id"/>
+    <item name="edit" type="id"/>
+    <item name="save" type="id"/>
+    <item name="plus" type="id"/>
+</resources>

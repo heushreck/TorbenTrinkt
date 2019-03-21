@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="zu_Trinkolo"
+        android:enabled="true"
+        android:icon="@drawable/drinking"
+        android:shortcutShortLabel="@string/shortcut_tri_short"
+        android:shortcutLongLabel="@string/shortcut_tri_long"
+        android:shortcutDisabledMessage="@string/shortcut_tri_short">
+        <intent
+            android:action="nothing"
+            android:targetPackage="com.master.drinkmaster3000"
+            android:targetClass="com.master.drinkmaster3000.Main.Main_Main"/>
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.master.drinkmaster3000"
+            android:targetClass="com.master.drinkmaster3000.Trinkolo.Trinkolo_Main"/>
+    </shortcut>
+
+</shortcuts>

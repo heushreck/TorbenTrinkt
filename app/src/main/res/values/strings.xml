@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Torben trinkt</string>
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+    <string name="shortcut_tri_short">Trinkolo</string>
+    <string name="shortcut_tri_long">Trinkolo - bestes Trinkspiel</string>
+
+    <string name="shortcut_bla_short">Blackstories</string>
+    <string name="shortcut_bla_long">Blackstories - Rabenschwarze Rätzel</string>
+
+    <string name="shortcut_sto_short">Gesprächsstoff</string>
+    <string name="shortcut_sto_long">Stoff zum reden</string>
+
+    <string name="shortcut_pri_short">Privacy</string>
+    <string name="shortcut_pri_long">Finde mehr über deine Freunde raus</string>
+
+    <string name="privacy_e">
+        Für 4 bis 20 Spieler\n\n
+        Ihr braucht pro Spieler ein 5 sowie ein 10 Cent Stück zudem noch 2 undurchsichige Säcke/Tüten/Boxen mit verschiedenen Farben.
+        Der Spielverlauf:\nEine Person liest die Frage vom Handy ab und alle überlegen sich, ob sie mit Ja oder Nein darauf antworten würden.\nAngefangen mit dem lesenden Spieler legt jeder eine seiner 2 Münzen in einen der Beutel, 10 Cent steht für du würdest mit Ja antworten, 5 Cent für mit Nein. Der erste Beutel, der rumgeht beinhaltet die Antworten, der zweite Beutel ist nur zum Abwerfen der restlichen Münzen.\n
+        Bevor enthüllt wird, wieviele Leute mit Ja und wieviel mit Nein geantwortet haben (erster Beutel wird ausgeleert), müssen alle eine Vermutung über das Ergebniss abgeben, anhand der Genauigkeit zum aktuellen Ergebniss gibt es dann Punkte/Schlücke für jeden.\n
+        Danach wird auch der zweite Beutel ausgeleert und jeder Spieler bekommt ein 5 und ein 10 Centstück zurück.\n
+        Das Handy wird weitergegeben und das ganze beginnt von neuem!\n Viel Spaß
+    </string>
+
+    <string name="credits">Entwickelt und Programmiert von\n\nNicolas Neudeck\n\n
+        Icons von:\nhttps://material.io/tools/icons/\n
+        Waiter Icon\nmade by http://www.freepik.com from www.flaticon.com\n
+        Menu Picture from: https://wallpaperhunt.net/wallpaper/13\n
+        Namesgeben: Simon\n
+        Inspirer: Johannes\n
+    </string>
+
+</resources>
